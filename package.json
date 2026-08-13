@@ -1,0 +1,1 @@
+{"name":"symulator-slonca-3d","version":"0.2.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"@types/three":"^0.185.4","next":"16.2.6","proj4":"^2.19.10","react":"19.2.6","react-dom":"19.2.6","three":"^0.185.1"},"devDependencies":{"@types/node":"^22","@types/react":"^19","@types/react-dom":"^19","typescript":"^5"}}
